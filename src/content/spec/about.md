@@ -4,4 +4,5 @@ This blog uses Fuwari.
 
 Say hey at hey@slitrostudio.me
 
-- Not a fox
+- Josh
+   Not a fox
