@@ -40,16 +40,12 @@ export const siteConfig: SiteConfig = {
 };
 
 export const navBarConfig: NavBarConfig = {
-	links: [
-		LinkPreset.Home,
-		LinkPreset.Archive,
-		LinkPreset.About,
-		
-	],
+	links: [LinkPreset.Home, LinkPreset.Archive, LinkPreset.About],
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "https://github.com/Castawhat/micheal.site-backend/blob/main/PFP-removebg-preview.png?raw=true", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar:
+		"https://github.com/Castawhat/micheal.site-backend/blob/main/PFP-removebg-preview.png?raw=true", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Josh",
 	bio: "Some guy on the interwebs",
 	links: [
