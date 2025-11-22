@@ -5,6 +5,8 @@ tags: [Post, Rant]
 category: Rant
 draft: false  
 ---
+# UPDATE: HQ and community members are working on a fix. More details at bottom of post. 
+
 ## Hack Club Has A Problem. (It's Slack)
 
 Slack (and salesforce) are greedy. But where does a Non-profit teaching high schoolers to code fall into this?
@@ -37,8 +39,9 @@ This never happened for banning workflows."
 The best part? If we move to mattermost in 5 years (When our enterprise runs out) we are screwed again.
 To be clear, there was real abuse. Some workflows were being triggered thousands of times a day, flagging us as a problem. So yes, Slack has a reason to be concerned, but fixing abuse doesn’t require eliminating the entire feature for 20,000+ teenagers with 18 days of notice. Rate limits, caps, approvals, or workflows restricted to trusted people would’ve solved the abuse. Instead, we are losing the whole system. 
 
-
-# UPDATE: HQ and community members are working on a fix. More details to come. 
+# UPDATE
+One part of what workflows were used for, joining private channels, has been implimented into Neon's bot Zeon.
+Existing workflows will stay.
 
 ## Message to Hack Club HQ
 If you want anything fixed to be more accurate or clarified, email me at josh [at] slitrostudio [dot] me
